@@ -1,0 +1,141 @@
+[
+    {
+        "chapter": "About IPTC Photo Metadata",
+        "items":
+        [
+            {
+                "title": "What is Photo Metadata",
+                "url": "https://www.iptc.org/standards/photo-metadata/photo-metadata/",
+                "description": "photo metadata is information about an image that is embedded into the image file itself. It is used to describe the image and to provide contact information for the creator and copyright."
+            },
+            {
+                "title": "What is the IPTC Photo Metadata Standard",
+                "url": "https://www.iptc.org/standards/photo-metadata/iptc-standard/",
+                "description": "the IPTC Photo Metadata Standard is the most widely used standard for describing photos, because of its universal acceptance among news agencies, photographers, photo agencies, libraries, museums, and other related industries."
+            },
+            {
+                "title": "Google Images and IPTC: Frequently Asked Questions",
+                "url": "https://www.iptc.org/standards/photo-metadata/iptc-and-google-images-frequently-asked-questions/",
+                "description": "Google Images now displays IPTC Photo Metadata embedded in images. This page answers frequently asked questions about this."
+            },
+            {
+                "title": "Social Media Sites Photo Metadata Test Results 2019",
+                "url": "https://www.iptc.org/standards/photo-metadata/social-media-sites-photo-metadata-test-results-2019/",
+                "description": "results of the IPTC Photo Metadata Support Test for the social media sites Facebook, Flickr, Instagram, Pinterest, Twitter and Wikimedia Commons."
+            }
+        ]
+    },
+    {
+        "chapter": "Specifications & Guides",
+        "items":
+        [
+            {
+                "title": "IPTC photo metadata user guide",
+                "url": "https://www.iptc.org/std/photometadata/documentation/userguide/",
+                "description": "guide to the IPTC Photo Metadata standard, explaining the purpose of each field and providing examples of how the fields are used."
+            },
+            {
+                "title": "Photo metadata standard specification",
+                "url": "https://www.iptc.org/std/photometadata/specification/IPTC-PhotoMetadata",
+                "description": "specification for the IPTC Photo Metadata standard, describing the purpose of each field and providing examples of how the fields are used."
+            },
+            {
+                "title": "Quick guide to IPTC photo metadata on Google images",
+                "url": "https://www.iptc.org/standards/photo-metadata/quick-guide-to-iptc-photo-metadata-and-google-images/",
+                "description": "quick guide to IPTC Photo Metadata and Google Images."
+            },
+            {
+                "title": "Photo metadata mapping guidelines",
+                "url": "https://iptc.org/std/photometadata/documentation/mappingguidelines/",
+                "description": "guidelines for mapping IPTC Photo Metadata to other metadata standards."
+            },
+            {
+                "title": "Developers guide to IPTC photo metadata",
+                "url": "https://iptc.atlassian.net/wiki/spaces/PMD/pages/606601427/Developers+and+power+users+guide+to+reading+and+writing+IPTC+Photo+Metadata",
+                "description": "guide for developers and power users to reading and writing IPTC Photo Metadata."
+            }
+        ]
+    },
+    {
+        "chapter": "Photo metadata tools & tests",
+        "items":
+        [
+            {
+                "title": "Software that supports IPTC photo metadata",
+                "url": "https://www.iptc.org/standards/photo-metadata/software-support/",
+                "description": "software that supports IPTC Photo Metadata."
+            },
+            {
+                "title": "Results of IPTC Photo Metadata Support by Software",
+                "url": "https://www.iptc.org/photo-metadata-support-test-results/?swid1=adobe-lrc&swid2=exiftool&swid3=xnviewmp",
+                "description": "results of the IPTC Photo Metadata Support Test for the software Adobe Lightroom Classic, ExifTool and XnViewMP."
+            },
+            {
+                "title": "IPTC photo metadata viewer",
+                "url": "https://getpmd.iptc.org/getiptcpmd.html",
+                "description": "tool for viewing IPTC Photo Metadata."
+            },
+            {
+                "title": "IPTC photo metadata interoperability tests",
+                "url": "https://www.iptc.org/standards/photo-metadata/interoperability-tests/",
+                "description": "interoperability tests for IPTC Photo Metadata."
+            },
+            {
+                "title": "Download Photo metadata reference image",
+                "url": "https://iptc.org/std/photometadata/examples/IPTC-PhotometadataRef-Std2023.1.jpg",
+                "description": "This image contains all IPTC Photo Metadata fields."
+            },
+            {
+                "title": "Download Photo with no metadata embedded",
+                "url": "https://www.iptc.org/std/photometadata/interoperability-tests/IPTC-InteropTest-NOmetadata.jpg",
+                "description": "This image contains no IPTC Photo Metadata."
+            },
+            {
+                "title": "IPTC Photo Metadata Interoperability Tests #2 & #3",
+                "url": "https://getpmd.iptc.org/interoptests-iptcpmd.html",
+                "description": "IPTC Photo Metadata Interoperability Tests #2 & #3."
+            },
+            {
+                "title": "Browser extensions",
+                "url": "https://www.iptc.org/standards/photo-metadata/browser-extensions/",
+                "description": "browser extensions for viewing IPTC Photo Metadata."
+            },
+            {
+                "title": "Exiftool by Phil Harvey",
+                "url": "https://exiftool.org/",
+                "description": "platform-independent Perl library plus a command-line application for reading, writing and editing meta information in a wide variety of files."
+            }
+        ]
+    },
+    {
+        "chapter": "Controled Vocabularies",
+        "items":
+        [
+            {
+                "title": "Groups of NewsCodes",
+                "url": "https://iptc.org/standards/newscodes/groups/",
+                "description": "list of the groups of NewsCodes."
+            },
+            {
+                "title": "NewsCodes Glossary",
+                "url": "https://iptc.org/standards/newscodes/glossary/",
+                "description": "glossary of NewsCodes."
+            },
+            {
+                "title": "NewsCodes Scheme",
+                "url": "https://cv.iptc.org/newscodes/genre",
+                "description": "list of the NewsCodes Scheme."
+            },
+            {
+                "title": "Controlled vocabulary",
+                "url": "https://www.controlledvocabulary.com/",
+                "description": "Controlled vocabulary is a carefully selected list of words and phrases, which are used to tag units of information (document or images) so that they may be more easily retrieved."
+            },
+            {
+                "title": "Image tagging techniques",
+                "url": "https://www.organizepictures.com/2010/04/efficient-keywording-controlled-vocabulary",
+                "description": "Efficient image tagging techniques or how to create a controlled vocabulary"
+            }
+        ]
+    }
+]

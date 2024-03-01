@@ -1,0 +1,39 @@
+---
+title: IPTC
+description: IPTC fields
+layout: base
+pagination:
+  data: database
+  size: 1
+  alias: iptc
+permalink: 'details/{{ iptc.field | slug }}/index.html'
+---
+<h2>{{ iptc.category }}</h2>
+<ul>
+  <li><strong>IPTC Field</strong>: {{ iptc.field }}</li>
+  <li><strong>Description</strong>: {{ iptc.description }}</li>
+  <li><strong>EXIF</strong>: {{ iptc.Exif }}</li>
+  <li><strong>XMP</strong>: {{ iptc.Xmp }}</li>
+  <li><strong>IPTC</strong>: {{ iptc.Iptc }}</li>
+  <li><strong>digiKam</strong>: {{ iptc.digikam }}</li>
+  <li><strong>XnView</strong>: {{ iptc.xnview }}</li>
+  <li><strong>ART</strong>: {{ iptc.art }}</li>
+  <li><strong>Example</strong>: {{ iptc.example }}</li>
+  <li><strong>My example</strong>: {{ iptc.my_example }}</li>
+  <li><strong>Max. length</strong>: {{ iptc.length }} caracters</li>
+</ul>
+
+<p>This is the page for <strong>{{iptc.field}}</strong>.</p>
+
+<nav aria-labelledby="my-pagination">
+  <ul>
+    <li>Previous: <a href="{{ pagination.href.previous }}">{{ pagination.pages.length }}</a></li>
+    <li>Next: <a href="{{ pagination.href.next }}">{{ pagination.next }}</a></li>
+  </ul>
+</nav>
+
+<ul>
+{%- for item in pagination.items %}
+  <li>{{item.field}} </li>
+{% endfor -%}
+</ul>
